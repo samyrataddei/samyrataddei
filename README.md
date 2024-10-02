@@ -1,4 +1,5 @@
-Olá, meu nome é Samyra
+# Olá, meu nome é Samyra 👩
+
 Bem vindo ao meu perfil, sou meio ofcial técnica em mecatrônica na Robert Bosch, tenho 19 anos e resido na cidade de Campinas SP.
 
 ## Sobre mim 💁‍♀️
