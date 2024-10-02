@@ -2,7 +2,7 @@
 
 Bem vindo ao meu perfil, sou meio ofcial técnica em mecatrônica na Robert Bosch, tenho 19 anos e resido na cidade de Campinas SP.
 
-## Sobre mim 💁‍♀️
+## Sobre mim 
 
 *Experiência* <br>
 - 1 ano e 2 meses como Menor Aprendiz na empresa SAMSUNG ELETRÔNICA da AMAZÔNIA;
