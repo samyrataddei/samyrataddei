@@ -16,7 +16,7 @@ Técnico em Industria 4.0 na instituição COTUCA - Escola Técnica de Campinas 
 <code> <img width = 40px
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> </code>
 <code> <img width = 40px
-<code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /> </code>
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /> </code>
 <code> <img width = 40px
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> </code>
 <code> <img width = 40px
